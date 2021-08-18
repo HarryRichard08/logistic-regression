@@ -1,1 +1,1 @@
-# logistic-rewisw
+# logistic-regression - In Depth
